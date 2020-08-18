@@ -12,7 +12,7 @@ By the end of this lesson, you'll be able to:
 
 ## Prerequisites
 * Big O Notation
-[myGA module: Sets](https://my.generalassemb.ly/activities/465)
+* [myGA module: Sets](https://my.generalassemb.ly/activities/465)
 
 ## Additional Resources
 - The great [set vs. array debate](https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a).
